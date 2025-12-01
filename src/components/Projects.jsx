@@ -21,15 +21,6 @@ const projects = [
     forks: "5",
     gradient: "from-purple-500 to-pink-500"
   },
-  {
-    name: "Portfolio Personal",
-    desc: "Sitio web personal con animaciones avanzadas y diseño responsivo. Demuestra habilidades en desarrollo frontend moderno.",
-    url: "https://github.com/ceczzx",
-    tech: ["React", "Framer Motion", "Tailwind", "Vercel"],
-    stars: "12",
-    forks: "3",
-    gradient: "from-green-500 to-teal-500"
-  },
 ];
 
 export default function Projects() {
