@@ -8,8 +8,6 @@ const projects = [
     desc: "Aplicación moderna para la gestión de donaciones y ventas de productos del Monasterio Santa Teresa. Desarrollado con React, Tailwind y TypeScript.",
     url: "https://github.com/Santa-TeresaERP/ST-frontend",
     tech: ["React", "TypeScript", "Tailwind", "Vite"],
-    stars: "24",
-    forks: "8",
     gradient: "from-blue-500 to-cyan-500"
   },
   {
@@ -17,8 +15,6 @@ const projects = [
     desc: "Backend robusto y escalable con Node.js, Express y PostgreSQL. Incluye autenticación JWT, APIs RESTful y despliegue en AWS.",
     url: "https://github.com/Santa-TeresaERP/ST-backend",
     tech: ["Node.js", "Express", "PostgreSQL", "JWT", "AWS"],
-    stars: "18",
-    forks: "5",
     gradient: "from-purple-500 to-pink-500"
   },
 ];
