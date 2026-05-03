@@ -49,7 +49,7 @@ export default function ProfilePhoto() {
           }}
         >
           <img 
-            src="/foto elegante.jpg" 
+            src="/foto_elegante.jpg" 
             alt="Geraldo Villanueva"
             className="w-full h-full object-cover"
           />
