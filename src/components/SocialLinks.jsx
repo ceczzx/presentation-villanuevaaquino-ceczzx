@@ -12,7 +12,7 @@ export default function SocialLinks() {
     },
     { 
       label: "CV PDF", 
-      url: "/CV-VillanuevaAquino.pdf",
+      url: "/¿CV_Geraldo_Villanueva.pdf",
       icon: <FaFilePdf className="text-xl" />,
       color: "from-red-500 to-red-700"
     },
